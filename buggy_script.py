@@ -3,7 +3,7 @@ import time
 def connect_to_db():
     print("Connecting to database at 192.168.1.100...")
     time.sleep(1)
-    print("Connection established.")
+    print("Connection establi.")
 
 def process_data(data_list):
     print(f"Processing {len(data_list)} records...")
